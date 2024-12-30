@@ -14,8 +14,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Griyo",
-  description: "Real estste landing page",
+  title: "Griyo - Real Estate Solutions",
+  description: "Discover Griyo, your go-to platform for real estate listings, property management, and more.",
+  keywords: "real estate, property listings, real estate solutions, home buying, property management",
+  robots: "index, follow",
 };
 
 export default function RootLayout({ children }) {
